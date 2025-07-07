@@ -1,2 +1,2 @@
-# C-Calculator
+# C++Calculator
 A simple calculator using C++
